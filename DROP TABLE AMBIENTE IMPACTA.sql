@@ -1,0 +1,11 @@
+drop table [SALAS\1901100].CLIENTEBIB
+drop table [SALAS\1901100].EMPRESTIMO
+drop table [SALAS\1901100].ItemPedido
+drop table [SALAS\1901100].Pedido
+drop table [SALAS\1901100].MEDICO
+drop table [SALAS\1901100].PACIENTE
+drop table [SALAS\1901100].Produtos
+drop table [SALAS\1901100].SALA
+drop table [SALAS\1901100].Telefone
+drop table [SALAS\1901100].Livro
+drop table [SALAS\1901100].cliente
